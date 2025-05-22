@@ -1,3 +1,7 @@
+#################
+# ADAM Muhammed #
+#  211002023    #
+#################	
 CREATE DATABASE medical_lab;
 USE medical_lab;
 CREATE TABLE Laboratorian (
